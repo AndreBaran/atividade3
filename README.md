@@ -7,3 +7,5 @@
 - [x] Adicionem mais uma saída devolvendo o restante para o endereço do faucet;<b>imagem5 transferencia 95% para faucet</b>
 - [x] Criem mais uma transferência calculando a taxa de transferência e devolvendo o restante do bitcoin para o endereço de faucet;<b>imagem6 transferencia do restante pagando taxa</b>
 
+<b>link blockexplorer https://live.blockcypher.com/btc-testnet/address/2MsnWLm1zQWZdevmJAAojbvozQt8X2CTeHt/</b>
+
